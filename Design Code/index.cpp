@@ -11,7 +11,6 @@ system("Color B5");
 cout<<"M.Hussain"<<endl ;
 
 
-cout<<"student of BSCS"<<endl ;
 
 
 }
