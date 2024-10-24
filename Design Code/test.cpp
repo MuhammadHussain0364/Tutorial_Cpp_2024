@@ -1,1 +1,5 @@
-muhammad
+
+for()
+{
+    
+}
