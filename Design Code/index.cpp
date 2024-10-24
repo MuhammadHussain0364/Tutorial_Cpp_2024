@@ -6,12 +6,12 @@ using namespace std ;
 int main()
 {
 
-system("cls"); // Clear the console screen (works on Windows)
-system("Color 0A"); 
+system("cls"); 
+system("Color B5"); 
 cout<<"M.Hussain"<<endl ;
 
 
-cout<<"GIT HUB MAE POST KRDO"<<endl ;
+cout<<"student of BSCS"<<endl ;
 
 
 }
